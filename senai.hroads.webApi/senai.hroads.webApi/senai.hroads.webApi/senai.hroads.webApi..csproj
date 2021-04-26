@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>senai.hroads.webApi_</RootNamespace>
+    <UserSecretsId>400e11bc-9ee5-4c18-a3f1-7175be14d286</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\NovaPasta\" />
+    <Folder Include="Interface\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Repository\" />
+  </ItemGroup>
+
+</Project>
