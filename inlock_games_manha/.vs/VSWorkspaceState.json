@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\senai.inlock.webApi",
+    "\\senai.inlock.webApi\\senai.inlock.webApi",
+    "\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi",
+    "\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\Controller",
+    "\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\Domains",
+    "\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\Interfaces",
+    "\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\Repositories"
+  ],
+  "SelectedNode": "\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\Properties",
+  "PreviewInSolutionExplorer": false
+}

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unicor\\OneDrive\\Área de Trabalho\\senai_sprint2-BackEnd\\exercicios\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
+      "projectUniqueName": "C:\\Users\\unicor\\OneDrive\\Área de Trabalho\\senai_sprint2_BackEnd\\exercicios\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
       "projectName": "senai_filmes_webAPI",
-      "projectPath": "C:\\Users\\unicor\\OneDrive\\Área de Trabalho\\senai_sprint2-BackEnd\\exercicios\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
+      "projectPath": "C:\\Users\\unicor\\OneDrive\\Área de Trabalho\\senai_sprint2_BackEnd\\exercicios\\senai_filmes_webAPI\\senai_filmes_webAPI\\senai_filmes_webAPI.csproj",
       "packagesPath": "C:\\Users\\unicor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unicor\\OneDrive\\Área de Trabalho\\senai_sprint2-BackEnd\\exercicios\\senai_filmes_webAPI\\senai_filmes_webAPI\\obj\\",
+      "outputPath": "C:\\Users\\unicor\\OneDrive\\Área de Trabalho\\senai_sprint2_BackEnd\\exercicios\\senai_filmes_webAPI\\senai_filmes_webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\unicor\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -63,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
