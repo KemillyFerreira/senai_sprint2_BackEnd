@@ -7,5 +7,6 @@ namespace senai.hroads.webApi_.Domain
 {
     public class Classe
     {
+
     }
 }

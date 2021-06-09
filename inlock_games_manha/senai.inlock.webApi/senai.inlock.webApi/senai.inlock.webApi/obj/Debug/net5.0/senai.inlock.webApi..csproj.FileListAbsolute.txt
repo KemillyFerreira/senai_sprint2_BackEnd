@@ -1,0 +1,6 @@
+C:\Users\unicor\OneDrive\Área de Trabalho\senai_sprint2_BackEnd\inlock_games_manha\senai.inlock.webApi\senai.inlock.webApi\senai.inlock.webApi\obj\Debug\net5.0\senai.inlock.webApi..csprojAssemblyReference.cache
+C:\Users\unicor\OneDrive\Área de Trabalho\senai_sprint2_BackEnd\inlock_games_manha\senai.inlock.webApi\senai.inlock.webApi\senai.inlock.webApi\obj\Debug\net5.0\senai.inlock.webApi..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unicor\OneDrive\Área de Trabalho\senai_sprint2_BackEnd\inlock_games_manha\senai.inlock.webApi\senai.inlock.webApi\senai.inlock.webApi\obj\Debug\net5.0\senai.inlock.webApi..AssemblyInfoInputs.cache
+C:\Users\unicor\OneDrive\Área de Trabalho\senai_sprint2_BackEnd\inlock_games_manha\senai.inlock.webApi\senai.inlock.webApi\senai.inlock.webApi\obj\Debug\net5.0\senai.inlock.webApi..AssemblyInfo.cs
+C:\Users\unicor\OneDrive\Área de Trabalho\senai_sprint2_BackEnd\inlock_games_manha\senai.inlock.webApi\senai.inlock.webApi\senai.inlock.webApi\obj\Debug\net5.0\senai.inlock.webApi..csproj.CoreCompileInputs.cache
+C:\Users\unicor\OneDrive\Área de Trabalho\senai_sprint2_BackEnd\inlock_games_manha\senai.inlock.webApi\senai.inlock.webApi\senai.inlock.webApi\obj\Debug\net5.0\senai.inlock.webApi..MvcApplicationPartsAssemblyInfo.cache
