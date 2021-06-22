@@ -16,3 +16,4 @@ namespace senai.inlock.webApi_.Domains
         public string nomeEstudio { get; set; }
     }
 }
+ 

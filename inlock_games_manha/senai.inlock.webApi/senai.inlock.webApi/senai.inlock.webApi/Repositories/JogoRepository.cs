@@ -16,7 +16,7 @@ namespace senai.inlock.webApi_.Repositories
        /// user Id w pwd = autenticação do usuário do SQL Server
        /// </sumary>
         
-        private string stringConexao = "Data Source=KEMILLY; initial catalog=inlock_games_manha; user Id=KEMILLY\unicor; pwd=!KSF2021";
+        private string stringConexao = "Data Source=DESKTOP-9269FK6; initial catalog=inlock_games_manha; user Id=sa; pwd=!KSF2021";
 
         public void AtualizarIdUrl(int id, JogoDomain jogo)
         {
