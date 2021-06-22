@@ -6,13 +6,13 @@ USE SENAI_HROADS_MANHA;
 CREATE TABLE TipoHabilidade
 (
 	idTipoHabilidade	INT PRIMARY KEY IDENTITY
-	,Tipo VARCHAR		(20)
+	,Tipo VARCHAR		(50)
 );
 
 CREATE TABLE Habilidade
 (
-	idHabilidade	INT PRIMARY KEY IDENTITY
-	,Nome			VARCHAR(30)
+	idHabilidade		INT PRIMARY KEY IDENTITY
+	,Nome				VARCHAR(30)
 	,idTipoHabilidade	INT FOREIGN KEY REFERENCES TipoHabilidade (idTipoHabilidade)
 );
 
@@ -30,12 +30,12 @@ CREATE TABLE ClasseHabilidade
 
 CREATE TABLE Personagem
 (
-	idPersonagem	INT PRIMARY KEY IDENTITY
-	,Nome			VARCHAR (20)
-	,Classe			VARCHAR (50)
-	,idClasse		INT FOREIGN KEY REFERENCES Classe(idClasse)
-	,VidaMax		TINYINT
-	,ManaMax		TINYINT
-	,DataAtualizaçao VARCHAR(20)
-	,DataCriacao	 VARCHAR (20)
+	idPersonagem		INT PRIMARY KEY IDENTITY
+	,Nome				VARCHAR (20)
+	,Classe				VARCHAR (50)
+	,idClasse			INT FOREIGN KEY REFERENCES Classe(idClasse)
+	,VidaMax			TINYINT
+	,ManaMax			TINYINT
+	,DataAtualizacao	VARCHAR(20)
+	,DataCriacao		VARCHAR (20)
 );

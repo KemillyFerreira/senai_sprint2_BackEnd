@@ -8,7 +8,7 @@ VALUES						('Ataque')
 						   ,('Cura')
 						   ,('Magia');
 
-INSERT INTO Habilidade(Nome, TipoHabilidade)
+INSERT INTO Habilidade(Nome, idTipoHabilidade)
 VALUES					('LancaMortal', 1)
 					   ,('EscudoSupremo', 2)
 					   ,('RecuperarVida', 3);
@@ -29,7 +29,7 @@ VALUES						(1, 1)
 						   ,(4, 3)
 						   ,(7, null);
 
-INSERT INTO Personagem(Nome, Classe, idClasse,VidaMax, ManaMax, DataAtualizaçao, DataCriacao)
+INSERT INTO Personagem(Nome, Classe, idClasse,VidaMax, ManaMax, DataAtualizacao, DataCriacao)
 VALUES				  ('DeuBug', 'Barbaro', 1, 100, 80, '02/03/2021', '18/01/2019')
 					 ,('BitBug', 'Monge', 4, 70, 100, '02/03/2021', '17/03/2016')
 					 ,('Fer8', 'Arcanista', 7, 75, 60, '02/03/2021', '18/03/2018');
