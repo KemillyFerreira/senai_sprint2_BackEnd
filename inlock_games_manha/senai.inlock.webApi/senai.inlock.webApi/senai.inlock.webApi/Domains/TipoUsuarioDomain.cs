@@ -1,17 +1,16 @@
-﻿using System.ComponentModel.DataAnnotations;
-
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace senai.inlock.webApi_.Domains
 {
     public class TipoUsuarioDomain
     {
-        /// <summary>
-        /// classe que representa a entidade dos tipos de usuario existente
-        /// </summary>
         public int idTipoUsuario { get; set; }
-
-
         [Required(ErrorMessage = "Preencha o campo titulo")]
+
         public string titulo { get; set; }
     }
 }
