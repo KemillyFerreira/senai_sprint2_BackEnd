@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kemilly Ferreira\\Desktop\\senai_sprint2_BackEnd\\inlock_games_manha\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj": {}
+    "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kemilly Ferreira\\Desktop\\senai_sprint2_BackEnd\\inlock_games_manha\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj": {
+    "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kemilly Ferreira\\Desktop\\senai_sprint2_BackEnd\\inlock_games_manha\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj",
-        "projectName": "senai.inlock.webApi.",
-        "projectPath": "C:\\Users\\Kemilly Ferreira\\Desktop\\senai_sprint2_BackEnd\\inlock_games_manha\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi..csproj",
+        "projectUniqueName": "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj",
+        "projectName": "HROADS.WEBAPI",
+        "projectPath": "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj",
         "packagesPath": "C:\\Users\\Kemilly Ferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kemilly Ferreira\\Desktop\\senai_sprint2_BackEnd\\inlock_games_manha\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi\\obj\\",
+        "outputPath": "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kemilly Ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.5, )"
+              "version": "[5.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer.Design": {
               "target": "Package",
@@ -52,15 +60,7 @@
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.5, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.2, )"
-            },
-            "System.IdentityModel.Tokens.Jwt": {
-              "target": "Package",
-              "version": "[6.10.2, )"
+              "version": "[5.0.7, )"
             }
           },
           "imports": [
