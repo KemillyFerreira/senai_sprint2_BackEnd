@@ -7360,19 +7360,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kemilly Ferreira\\.nuget\\packages\\": {}
+    "C:\\Users\\50359605877\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj",
+      "projectUniqueName": "C:\\Users\\50359605877\\Desktop\\senai_sprint2_BackEnd\\senai.hroads.webApi\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj",
       "projectName": "HROADS.WEBAPI",
-      "projectPath": "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj",
-      "packagesPath": "C:\\Users\\Kemilly Ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kemilly Ferreira\\Pictures\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\obj\\",
+      "projectPath": "C:\\Users\\50359605877\\Desktop\\senai_sprint2_BackEnd\\senai.hroads.webApi\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI.csproj",
+      "packagesPath": "C:\\Users\\50359605877\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\50359605877\\Desktop\\senai_sprint2_BackEnd\\senai.hroads.webApi\\HROADS.WEBAPI\\HROADS.WEBAPI\\HROADS.WEBAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kemilly Ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\50359605877\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
