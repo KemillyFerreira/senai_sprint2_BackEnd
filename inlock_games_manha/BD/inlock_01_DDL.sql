@@ -34,7 +34,7 @@ GO
 CREATE TABLE Usuario
 (
 	idUsuario		INT PRIMARY KEY IDENTITY
-	,email			VARCHAR (100) UNIQUE NOT NULL
+	,email			VARCHAR (100)NOT NULL
 	,senha			VARCHAR (20) NOT NULL
 	,idTipoUsuario	INT FOREIGN KEY REFERENCES TipoUsuario (idTipoUsuario)
 );
