@@ -1,0 +1,7 @@
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.csproj.AssemblyReference.cache
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.AssemblyInfoInputs.cache
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.AssemblyInfo.cs
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\50359605877\Desktop\senai_sprint2_BackEnd\InLock\inLock.WebApi\inLock.WebApi\obj\Debug\net5.0\inLock.WebApi.MvcApplicationPartsAssemblyInfo.cache
